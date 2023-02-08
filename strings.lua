@@ -31,7 +31,7 @@ return {
 
         ["br424_kopf1_name"] = "Class 424.0",
         ["br424_kopf2_name"] = "Class 424.5",
-		["br434_car_name"] = "Class 434",
+		["br434_wagen_name"] = "Class 434",
     
         -- 425
         ["br425_1_name"] = "Class 425 DB (1999)",
@@ -70,7 +70,7 @@ return {
 
         ["br425_kopf1_name"] = "Class 425.0",
         ["br425_kopf2_name"] = "Class 425.5",
-		["br435_car_name"] = "Class 435",
+		["br435_wagen_name"] = "Class 435",
 
         -- 426
         ["br426_1_name"] = "Class 426 DB Regio (2016)",
