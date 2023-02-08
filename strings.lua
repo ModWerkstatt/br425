@@ -29,7 +29,7 @@ return {
         ["br424_3_fake_name"] = "Class 424 neutral (1999) FAKE",
         ["br424_3_desc"] = "The class 424 was developed for operation on the S-Bahn Hannover. In contrast to the class 425, it has fold-out steps for bridging gaps and is only allowed to run at 140 km/h. The vehicles can be coupled with the class 425 or 426. Painting: DB neutral",
 
-        ["br424_head1_name"] = "Class 424.0",
+        ["br424_kopf1_name"] = "Class 424.0",
         ["br424_kopf2_name"] = "Class 424.5",
 		["br434_car_name"] = "Class 434",
     
@@ -68,7 +68,7 @@ return {
         ["br425_11_fake_name"] = "Class 425 Hannover Airport (2004) FAKE",
         ["br425_11_desc"] = "The 425 is designed as a four-car train. The vehicles were used by DB Regio from 1999. Paint scheme: S-Bahn Hannover Airport line",
 
-        ["br425_head1_name"] = "Class 425.0",
+        ["br425_kopf1_name"] = "Class 425.0",
         ["br425_kopf2_name"] = "Class 425.5",
 		["br435_car_name"] = "Class 435",
 
@@ -98,7 +98,7 @@ return {
         ["br426_8_fake_name"] = "BR 426 Abellio Baden-Württemberg (2019) FAKE",
         ["br426_8_desc"] = "Class 426 was procured for lines with weaker passenger volumes and to reinforce BR 425 as required. This train consists of only two end cars. Paint scheme: Abellio Baden-Württemberg (2019 - 2022)",
 
-        ["br426_head1_name"] = "BR 426.0",
+        ["br426_kopf1_name"] = "BR 426.0",
         ["br426_kopf2_name"] = "BR 426.5",
 		
 	},
