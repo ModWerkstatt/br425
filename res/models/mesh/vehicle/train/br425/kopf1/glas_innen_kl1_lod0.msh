@@ -1,0 +1,48 @@
+function data()
+return {
+	subMeshes = {
+		{
+			indices = {
+				normal = {
+					count = 2112,
+					offset = 23136,
+				},
+				position = {
+					count = 2112,
+					offset = 18912,
+				},
+				tangent = {
+					count = 2112,
+					offset = 25248,
+				},
+				uv0 = {
+					count = 2112,
+					offset = 21024,
+				},
+			},
+		},
+	},
+	vertexAttr = {
+		normal = {
+			count = 6336,
+			numComp = 3,
+			offset = 4128,
+		},
+		position = {
+			count = 2256,
+			numComp = 3,
+			offset = 0,
+		},
+		tangent = {
+			count = 8448,
+			numComp = 4,
+			offset = 10464,
+		},
+		uv0 = {
+			count = 1872,
+			numComp = 2,
+			offset = 2256,
+		},
+	},
+}
+end
