@@ -11,13 +11,12 @@ return {
 			colors = { },
 		},
 		dirt_rust = {
-			age = 0,
-			dirtColor = { 0.5, 0.5, 0.5, },
-			dirtOpacity = 0.5,
-			dirtScale = 1,
-			rustColor = { 0.5, 0.5, 0.5, },
+			dirtColor = { 0.2156862745098, 0.15686274509804, 0.11372549019608, },
+			dirtOpacity = 0.1,
+			dirtScale = 8,
+			rustColor = { 0.24313725490196, 0.17254901960784, 0.14117647058824, },
 			rustOpacity = 0.5,
-			rustScale = 1,
+			rustScale = 2.87604256543,
 		},
 		fade_out_range = {
 			fadeOutEndDist = 20000,
