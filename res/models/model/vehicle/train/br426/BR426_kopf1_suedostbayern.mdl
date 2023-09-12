@@ -78,7 +78,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br425/glas_grklo.mtl", },
+						materials = { "vehicle/train/br425/glas_grKlo.mtl", },
 						mesh = "vehicle/train/br425/kopf1/glas_fenster_lod0.msh",
 						name = "glas",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
