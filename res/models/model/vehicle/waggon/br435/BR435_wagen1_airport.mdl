@@ -488,7 +488,7 @@ return {
 						mesh = "vehicle/train/br425/tuerlampen_l_lod0.msh",
 						name = "rumpf_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.45, 0, 0, 1, },
-					},                    
+					},
                     {
 						animations = {
 							close_all_doors = {
@@ -1556,7 +1556,7 @@ return {
 					crew = false,
 					group = 1,
 					transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.45, -0.65, 0.8, 1, },
-				},				
+				},
 				---
                 {
 					animation = "sitting",

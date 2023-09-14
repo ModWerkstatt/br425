@@ -52,7 +52,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 6.231321811676, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br425/rumpf1.mtl", },
+						materials = { "vehicle/train/br426/rumpf2_original.mtl", },
 						mesh = "vehicle/train/br425/lzb_antenne_lod0.msh",
 						name = "lzb_antenne",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },

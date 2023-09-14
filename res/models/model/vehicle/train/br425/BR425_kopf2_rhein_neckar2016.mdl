@@ -23,7 +23,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br425/innen2_neu.mtl", "vehicle/train/br425/innen1_neu.mtl", },
-						mesh = "vehicle/train/br425/kopf2/innen_kl2_MZA_lod0.msh",
+						mesh = "vehicle/train/br425/kopf2/innen_kl2_mza_lod0.msh",
 						name = "rumpf_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -552,7 +552,7 @@ return {
 						mesh = "vehicle/train/br425/tuerlampen_l_lod0.msh",
 						name = "rumpf_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},                    
+					},
                     {
 						animations = {
 							close_all_doors = {
@@ -591,7 +591,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br425/innen2.mtl", },
+						materials = { "vehicle/train/br425/innen2_neu.mtl", },
 						mesh = "vehicle/train/br425/kopf2/innen_kl1_lift_lod1.msh",
 						name = "rumpf_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -960,7 +960,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br425/innen2.mtl", },
+						materials = { "vehicle/train/br425/innen2_neu.mtl", },
 						mesh = "vehicle/train/br425/kopf2/innen_kl1_lift_lod2.msh",
 						name = "rumpf_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -1318,7 +1318,7 @@ return {
 					transf = {0, 1, 0, 0, -0, 0, 1, 0, 1, -0, 0, 0, 8.27, -0.85 , 3.15, 1, },
 					type = "LINE_NAME",
 					verticalAlignment = "CENTER",
-				},	
+				},
 				{
 					alignment = "CENTER",
 					alpha = 1,
@@ -1550,7 +1550,7 @@ return {
 					group = 1,
 					transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.35, -0.65, 0.8, 1, },
 				},
-				
+
 				---
                 {
 					animation = "idle",
@@ -1678,7 +1678,7 @@ return {
 					group = 1,
 					transf = { -0.342, -0.940, 0, 0, 0.940, -0.342, 0, 0, 0, 0, 1, 0, -3.7, 0, 0.8, 1, },
 				},
-				
+
 				---
                 {
 					animation = "sitting",

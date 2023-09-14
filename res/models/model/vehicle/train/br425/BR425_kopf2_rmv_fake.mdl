@@ -177,7 +177,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br425/innen2.mtl", },
+						materials = { "vehicle/train/br425/innen2_neu.mtl", },
 						mesh = "vehicle/train/br425/kopf2/innen_kl1_lift_lod1.msh",
 						name = "rumpf_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -302,7 +302,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br425/innen2.mtl", },
+						materials = { "vehicle/train/br425/innen2_neu.mtl", },
 						mesh = "vehicle/train/br425/kopf2/innen_kl1_lift_lod2.msh",
 						name = "rumpf_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },

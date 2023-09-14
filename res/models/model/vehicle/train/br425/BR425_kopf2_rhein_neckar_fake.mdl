@@ -23,7 +23,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br425/innen2.mtl", "vehicle/train/br425/innen1.mtl", },
-						mesh = "vehicle/train/br425/kopf2/innen_kl2_MZA_lod0.msh",
+						mesh = "vehicle/train/br425/kopf2/innen_kl2_mza_lod0.msh",
 						name = "rumpf_1",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
